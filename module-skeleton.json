@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-routing-flutter",
+  "capabilityKey": "liberusoftware/module-crm-routing",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_routing_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/routing.md",
+  "presentationPlan": "projects/crm/flutter/routing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
